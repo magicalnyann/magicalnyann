@@ -1,4 +1,4 @@
-### Hi there 👋
+#마법소녀의 코딩일기
 
 <!--
 **magicalnyann/magicalnyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
