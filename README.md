@@ -3,8 +3,8 @@
 
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 햇병아리 개발자!</li>오늘도 츄르값 버는중</li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -36,5 +36,6 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicalnyann&layout=compact&bg_color=180,d4a5f3,00000000&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+    
     
     
