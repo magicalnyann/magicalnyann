@@ -2,7 +2,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Magical%20Coding%20World!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
-#### 야옹~
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 햇병아리 개발자 오늘도 츄르값 버는중! </div> 
